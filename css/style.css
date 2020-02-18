@@ -1,0 +1,6 @@
+header ul li {
+    float: left;
+    width: 30%;
+    text-align: center;
+    margin: 20px;
+}
